@@ -7,6 +7,8 @@
 ## [Курс: Java массивы](https://ru.hexlet.io/courses/java-arrays)
 
 ### 1. [Морской бой](https://ru.hexlet.io/challenges/java_arrays_sea_battle_exercise)
+Плохое решение, нужно потом исправить
+
 Решение: [src/main/java/tasks/seaBattle](src/main/java/tasks/seaBattle)
 
 Тесты: [src/test/java/tasks/seaBattle](src/test/java/tasks/seaBattle)
@@ -21,14 +23,7 @@
 
 Тесты: [src/test/java/tasks/chunk](src/test/java/tasks/chunk)
 
-### 4. [Морской бой](https://ru.hexlet.io/challenges/java_arrays_sea_battle_exercise)
-Плохое решение, нужно потом исправить
-
-Решение: [src/main/java/tasks/seaBattle](src/main/java/tasks/seaBattle)
-
-Тесты: [src/test/java/tasks/seaBattle](src/test/java/tasks/seaBattle)
-
-### 5. [Улитка](https://ru.hexlet.io/challenges/java_arrays_snail_exercise)
+### 4. [Улитка](https://ru.hexlet.io/challenges/java_arrays_snail_exercise)
 Решение: [src/main/java/tasks/snail](src/main/java/tasks/snail)
 
 Тесты: [src/test/java/tasks/snail](src/test/java/tasks/snail)
