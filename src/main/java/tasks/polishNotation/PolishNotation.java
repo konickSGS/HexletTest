@@ -15,7 +15,6 @@ public class PolishNotation {
                 Integer a = stack.pollFirst();
 
                 Operand operand = Operand.valueOfSign(value);
-                //System.out.println(a + value + b + "=" + operand.calculate(a, b));
                 stack.addFirst(operand.calculate(a, b));
             } else {
                 stack.addFirst(Integer.parseInt(value));
