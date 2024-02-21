@@ -45,3 +45,12 @@
 
 Тесты: [src/test/java/tasks/summaryRanges](src/test/java/tasks/summaryRanges)
 
+## [Курс: Java: Коллекции](https://ru.hexlet.io/courses/java-collections)
+
+### 1. [Горизонтальная гистограмма](https://ru.hexlet.io/challenges/java_collections_horisontal_histogram_exercise)
+
+Решение: [src/main/java/tasks/horizontalHistogram](src/main/java/tasks/horizontalHistogram)
+
+Тесты: [src/test/java/tasks/horizontalHistogram](src/test/java/tasks/horizontalHistogram)
+
+

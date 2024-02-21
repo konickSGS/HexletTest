@@ -1,11 +1,6 @@
 package tasks.horizontalHistogram;
 
 import java.io.PrintStream;
-import java.util.List;
-import java.util.function.IntSupplier;
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
-import java.util.stream.Stream;
 import java.util.function.Supplier;
 
 public class HorizontalHistogram {
