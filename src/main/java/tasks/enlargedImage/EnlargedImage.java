@@ -12,14 +12,14 @@ public class EnlargedImage {
 
         return Arrays.stream(arr)
                 .flatMap(line -> {
-                    String[][] repeatElemets = new String[coef][];
-                    Arrays.fill(repeatElemets, repeatElement(line, coef));
-                    return Stream.of(repeatElemets);
+                    String[][] repeatElements = new String[coef][];
+                    Arrays.fill(repeatElements, repeat(line, coef));
+                    return Stream.of(repeatElements);
                 })
                 .toArray(String[][]::new);
     }
 
-    private static String[] repeatElement(String[] line, int coef) {
+    private static String[] repeat(String[] line, int coef) {
         return Arrays.stream(line)
                 .flatMap(string -> {
                     String[] lines = new String[coef];
