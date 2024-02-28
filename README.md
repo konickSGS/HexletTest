@@ -63,3 +63,21 @@
 Решение: [src/main/java/tasks/isValidIPv6](src/main/java/tasks/isValidIPv6)
 
 Тесты: [src/test/java/tasks/isValidIPv6](src/test/java/tasks/isValidIPv6)
+
+## [Курс: Java: Основы ООП](https://ru.hexlet.io/courses/java-oop)
+
+### 1. [Дешевые отели](https://ru.hexlet.io/challenges/java_oop_hotels_exercise)
+
+Решение: [src/main/java/tasks/hotel](src/main/java/tasks/hotel)
+
+Тесты: [src/test/java/tasks/hotel](src/test/java/tasks/hotel)
+
+### 2. [Будильник](https://ru.hexlet.io/challenges/java_oop_clock_exercise)
+
+Решение: [src/main/java/tasks/clock](src/main/java/tasks/clock)
+
+Тесты: [src/test/java/tasks/clock](src/test/java/tasks/clock)
+
+
+
+
