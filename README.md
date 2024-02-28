@@ -48,9 +48,18 @@
 ## [Курс: Java: Коллекции](https://ru.hexlet.io/courses/java-collections)
 
 ### 1. [Горизонтальная гистограмма](https://ru.hexlet.io/challenges/java_collections_horisontal_histogram_exercise)
-
 Решение: [src/main/java/tasks/horizontalHistogram](src/main/java/tasks/horizontalHistogram)
 
 Тесты: [src/test/java/tasks/horizontalHistogram](src/test/java/tasks/horizontalHistogram)
 
+### 2. [Теория вероятности](https://ru.hexlet.io/challenges/java_collections_probabilities_exercise)
 
+Решение: [src/main/java/tasks/calculateProbabilities](src/main/java/tasks/calculateProbabilities)
+
+Тесты: [src/test/java/tasks/calculateProbabilities](src/test/java/tasks/calculateProbabilities)
+
+### 3. [Валидатор IPv6](https://ru.hexlet.io/challenges/java_collections_ipv6_validator_exercise)
+
+Решение: [src/main/java/tasks/isValidIPv6](src/main/java/tasks/isValidIPv6)
+
+Тесты: [src/test/java/tasks/isValidIPv6](src/test/java/tasks/isValidIPv6)
