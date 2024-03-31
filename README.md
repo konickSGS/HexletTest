@@ -78,6 +78,12 @@
 
 Тесты: [src/test/java/tasks/clock](src/test/java/tasks/clock)
 
+## [Курс: Java: Map](https://ru.hexlet.io/courses/java-maps)
+
+### 1. [Детектирование ](https://ru.hexlet.io/challenges/java_maps_find_where_exercise)
+
+Решение: [src/main/java/tasks/findWhere](src/main/java/tasks/findWhere)
+
 
 
 
